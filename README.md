@@ -20,6 +20,6 @@
 ## 📫 Contato
 ✉️ggusta.afk@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/> @gustaafk
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> @gustaafk
 
 * GitHub: https://github.com/corinthiansbimundial20-spec
