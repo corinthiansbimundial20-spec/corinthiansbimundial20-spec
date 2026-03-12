@@ -22,4 +22,4 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"/> @gustaafk
 
-* GitHub: https://github.com/corinthiansbimundial20-spec
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20"/> corinthiansbimundial20-spec
