@@ -25,6 +25,6 @@
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> corinthiansbimundial20-spec
 
 <p align="center">
-  <img src="https://logodetimes.com/times/corinthians/logo-corinthians-256.png" width="60" style="vertical-align:middle;"/>
-  <b style="font-size:30px; vertical-align:middle;"> Vai Corinthians</b>
+  <img src="https://logodetimes.com/times/corinthians/logo-corinthians-256.png" width="70" style="vertical-align:middle;"/>
+  <b style="font-size:36px; color:#000000; vertical-align:middle; text-shadow: 2px 2px #FFFFFF;"> Vai Corinthians!</b>
 </p>
