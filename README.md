@@ -24,4 +24,4 @@
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"/> corinthiansbimundial20-spec
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Corinthians_logo.svg" width="25"/> Vai Corinthians!
+<img src="https://logodetimes.com/times/corinthians/logo-corinthians-256.png" width="25"/> Vai Corinthians!
