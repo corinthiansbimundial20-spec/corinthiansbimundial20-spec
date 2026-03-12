@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá, me chamo Gustavo
 
-<!--
-**corinthiansbimundial20-spec/corinthiansbimundial20-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Informática para Internet** na **Etec Antônio Furlan (Centro Paula Souza)** — 1º ano.
 
-Here are some ideas to get you started:
+💻 Interessado em **desenvolvimento web** e sempre aprendendo novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+## 📚 Atualmente
+
+* Estudando desenvolvimento web
+* Criando pequenos projetos para praticar
+* Aprendendo mais sobre programação
+
+## 📫 Contato
+✉️ggusta.afk@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/> @gustaafk
+
+* GitHub: https://github.com/corinthiansbimundial20-spec
